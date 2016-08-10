@@ -1,0 +1,486 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"newfi",
+				"love.physics.newFixture"
+			],
+			[
+				"tab",
+				"table.remove	(table [, pos])"
+			],
+			[
+				"for",
+				"fori	for i,v in ipairs()"
+			],
+			[
+				"mous",
+				"love.mouse.getX"
+			],
+			[
+				"group",
+				"groupHide"
+			],
+			[
+				"addb",
+				"addButtonFromImg"
+			],
+			[
+				"getHeight",
+				"love.graphics.getHeight"
+			],
+			[
+				"pic_",
+				"pic_norm"
+			],
+			[
+				"draw",
+				"love.graphics.draw"
+			],
+			[
+				"obj",
+				"objs"
+			],
+			[
+				"newfon",
+				"love.graphics.newFont"
+			],
+			[
+				"newr",
+				"love.physics.newRevoluteJoint"
+			],
+			[
+				"creat_",
+				"creat_joint"
+			],
+			[
+				"joint",
+				"love.physics.newDistanceJoint"
+			],
+			[
+				"table",
+				"table.insert	(table, [pos,] value)"
+			],
+			[
+				"poly",
+				"love.graphics.polygon"
+			],
+			[
+				"getpo",
+				"love.mouse.getPosition"
+			],
+			[
+				"circ",
+				"love.graphics.circle"
+			],
+			[
+				"objc",
+				"object"
+			],
+			[
+				"obj_",
+				"obj_body"
+			],
+			[
+				"shape",
+				"love.physics.newCircleShape"
+			],
+			[
+				"ph",
+				"love.physics.newBody"
+			],
+			[
+				"new",
+				"love.graphics.newMesh"
+			],
+			[
+				"cirlc",
+				"love.graphics.circle"
+			],
+			[
+				"mouse",
+				"love.mouse.getPosition"
+			],
+			[
+				"isd",
+				"love.mouse.isDown"
+			],
+			[
+				"shap",
+				"love.physics.newChainShape"
+			],
+			[
+				"rect",
+				"love.graphics.rectangle"
+			],
+			[
+				"wind",
+				"love.window.setMode"
+			],
+			[
+				"linew",
+				"love.graphics.setLineWidth"
+			],
+			[
+				"newsha",
+				"love.physics.newCircleShape"
+			],
+			[
+				"polyg",
+				"love.graphics.polygon"
+			],
+			[
+				"grap",
+				"love.graphics.polygon"
+			],
+			[
+				"tabl",
+				"table.concat	table.concat"
+			],
+			[
+				"line",
+				"love.graphics.line"
+			],
+			[
+				"up",
+				"unpack	(list [, i [, j]])"
+			],
+			[
+				"cir",
+				"love.graphics.circle"
+			],
+			[
+				"setc",
+				"love.graphics.setColor"
+			],
+			[
+				"setlinew",
+				"love.graphics.setLineWidth"
+			],
+			[
+				"to",
+				"tostring	(e)"
+			],
+			[
+				"newf",
+				"love.graphics.newFont"
+			],
+			[
+				"print",
+				"love.graphics.print"
+			],
+			[
+				"setb",
+				"love.graphics.setBackgroundColor"
+			],
+			[
+				"fon",
+				"love.graphics.setFont"
+			],
+			[
+				"font",
+				"love.graphics.newFont"
+			],
+			[
+				"pri",
+				"love.graphics.print"
+			],
+			[
+				"func",
+				"function	function"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "Packages/Lua Love/LuaLove.sublime-build",
+	"command_palette":
+	{
+		"height": 334.0,
+		"selected_items":
+		[
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Disable Package"
+			],
+			[
+				"",
+				"Build: Run"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"pa",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 504.0
+	},
+	"console":
+	{
+		"height": 146.0,
+		"history":
+		[
+			"Love2D",
+			"love2d",
+			"build",
+			"Build",
+			"Love2D",
+			"Love2d",
+			"love2d",
+			"build"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/F/Love2D Project/physic world/interface.lua",
+		"/F/Love2D Project/physic world/object.lua",
+		"/F/Love2D Project/physic world/buttons.lua",
+		"/F/Love2D Project/physic world/main.lua",
+		"/D/Program Files/Sublime Text 3/Data/Packages/ConvertToUTF8/ConvertToUTF8.sublime-settings",
+		"/F/Love2D Project/physic world/lib/gui/init.lua",
+		"/F/Love2D Project/physic world/joint.lua",
+		"/F/Love2D Project/physic world/physicWorld.lua",
+		"/F/Love2D Project/physic world/input.lua",
+		"/F/Love2D Project/physic world/lib/gui/core.lua",
+		"/F/Love2D Project/physic world/lib/gui/slider.lua",
+		"/F/Love2D Project/physic world/lib/gui/label.lua",
+		"/F/Love2D Project/physic world/lib/gui/button.lua",
+		"/C/Users/Administrator/Desktop/新建文本文档.txt",
+		"/F/Love2D Project/physic world/ui.lua",
+		"/D/Program Files/Sublime Text 3/Data/Packages/Default/Preferences.sublime-settings",
+		"/F/Love2D Project/physic world/conf.lua",
+		"/F/Love2D Project/physic world/lib/gui/slider2d.lua",
+		"/F/Love2D Project/physic world/lib/gui.lua",
+		"/F/Love2D Project/physic world/scr/game/physicWorld.lua",
+		"/F/Love2D Project/physic world/scr/game/object.lua",
+		"/F/Love2D Project/physic world/scr/game/ui.lua",
+		"/F/Love2D Project/examples with box2d/e0008.lua",
+		"/F/Love2D Project/examples with box2d/e0009.lua",
+		"/F/Love2D Project/examples with box2d/e0010.lua",
+		"/F/Love2D Project/examples with box2d/e0003.lua",
+		"/F/Love2D Project/examples with box2d/e0004.lua",
+		"/F/Love2D Project/examples with box2d/e0006.lua",
+		"/F/Love2D Project/examples with box2d/e0007.lua",
+		"/F/Love2D Project/examples with box2d/e0005.lua",
+		"/F/Love2D Project/examples with box2d/e0001.lua",
+		"/F/Love2D Project/examples with box2d/e0002.lua",
+		"/F/Love2D Project/examples with box2d/main.lua",
+		"/F/Love2D Project/fight/man.lua",
+		"/F/Love2D Project/fight/main.lua",
+		"/F/Love2D Project/fight/examples/e0001.lua",
+		"/C/Users/Administrator/Desktop/boner-master/main.lua",
+		"/C/Users/Administrator/Desktop/程序/坦克大战/lib/cls.aau",
+		"/C/Users/Administrator/Desktop/boner-master/examples/basic/basic.lua",
+		"/F/Love2D Project/fight/conf.lua",
+		"/F/Love2D Project/module/main.lua",
+		"/F/Love2D Project/module/mainEX.lua",
+		"/F/Love2D Project/module/main with frame.lua",
+		"/F/Love2D Project/module/scr/scene/game.lua",
+		"/F/Love2D Project/module/scr/scene/help.lua",
+		"/F/Love2D Project/module/scr/scene/pause.lua",
+		"/F/Love2D Project/module/scr/scene/start.lua",
+		"/F/Love2D Project/module/scr/scene/ending.lua",
+		"/F/Love2D Project/module/scr/scene/credit.lua",
+		"/F/Love2D Project/module/scr/scene/config.lua",
+		"/F/Love2D Project/module/scr/scene/end.lua",
+		"/F/Love2D Project/module/conf.lua",
+		"/C/Users/Administrator/Desktop/程序/Love Libs/astray-master/astray-master/conf.lua",
+		"/C/Users/Administrator/Desktop/程序/Love Libs/astray-master/astray-master/main.lua",
+		"/F/Love2D Project/main.lua",
+		"/F/Love2D Project/conf.lua",
+		"/C/Users/Administrator/Desktop/Love Libs/Jumper-Benchmark-master/Jumper-Benchmark-master/run.lua",
+		"/C/Users/Administrator/Desktop/a.lua",
+		"/D/Program Files/Sublime Text 3/Data/Packages/User/Default (Windows).sublime-keymap",
+		"/D/Program Files/Sublime Text 3/Data/Packages/Default/Default (Windows).sublime-keymap"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"print",
+			"circle",
+			"select",
+			"Gourp",
+			"worldPop",
+			"Pop",
+			"zone",
+			"group",
+			"print",
+			"input",
+			"self.",
+			"creatO",
+			"selected=",
+			"objects",
+			"group",
+			"print",
+			"set",
+			"mouse.down",
+			"font",
+			"regist",
+			"print",
+			"select",
+			"weld",
+			"print",
+			"creat",
+			"select",
+			"selcect",
+			"object",
+			"pingt",
+			"world",
+			"cos",
+			"质点",
+			"质心",
+			"big",
+			"print",
+			"build"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"box",
+			"Group",
+			"",
+			"creat_obj",
+			"中心"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"folders":
+	[
+		{
+			"follow_symlinks": true,
+			"path": "F:\\Love2D Project\\physic world"
+		}
+	],
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 118.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "",
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
